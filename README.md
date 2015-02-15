@@ -2,6 +2,12 @@
 
 A last.fm based playlist creator.
 
+##Shout-outs:
+
+[@dufferzafar](https://github.com/dufferzafar) for https://gist.github.com/dufferzafar/3a7641f28a5a2963ec69
+
+#Todo:
+
 `lfm update` - Create or Update your local database of music files.
 
 `lfm diff [me] users` - Find differences in music taste between users.
